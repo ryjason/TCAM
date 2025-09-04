@@ -1,0 +1,636 @@
+  0%|                                                                                              | 0/150 [00:00<?, ?it/s]ERROR:__main__:Error processing item 342: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  1%|▌                                                                                     | 1/150 [00:00<01:12,  2.05it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  1%|█▏                                                                                    | 2/150 [00:00<00:57,  2.56it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  2%|█▋                                                                                    | 3/150 [00:01<00:48,  3.05it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  3%|██▎                                                                                   | 4/150 [00:01<00:46,  3.11it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  3%|██▊                                                                                   | 5/150 [00:01<00:42,  3.37it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  4%|███▍                                                                                  | 6/150 [00:01<00:46,  3.13it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  5%|████                                                                                  | 7/150 [00:02<00:43,  3.29it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  5%|████▌                                                                                 | 8/150 [00:02<00:41,  3.41it/s]ERROR:__main__:Error processing item 357: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  6%|█████▏                                                                                | 9/150 [00:02<00:47,  3.00it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  7%|█████▋                                                                               | 10/150 [00:03<00:49,  2.85it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  7%|██████▏                                                                              | 11/150 [00:03<00:45,  3.06it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  8%|██████▊                                                                              | 12/150 [00:03<00:42,  3.22it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  9%|███████▎                                                                             | 13/150 [00:04<00:41,  3.32it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+  9%|███████▉                                                                             | 14/150 [00:04<00:39,  3.49it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 10%|████████▌                                                                            | 15/150 [00:04<00:40,  3.32it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 11%|█████████                                                                            | 16/150 [00:05<00:41,  3.24it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 11%|█████████▋                                                                           | 17/150 [00:05<00:38,  3.41it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 12%|██████████▏                                                                          | 18/150 [00:05<00:40,  3.24it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 13%|██████████▊                                                                          | 19/150 [00:06<00:42,  3.07it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 13%|███████████▎                                                                         | 20/150 [00:06<00:39,  3.31it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 14%|███████████▉                                                                         | 21/150 [00:06<00:36,  3.49it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 15%|████████████▍                                                                        | 22/150 [00:06<00:40,  3.13it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 15%|█████████████                                                                        | 23/150 [00:07<00:43,  2.95it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 16%|█████████████▌                                                                       | 24/150 [00:07<00:40,  3.12it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 17%|██████████████▏                                                                      | 25/150 [00:07<00:37,  3.35it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 17%|██████████████▋                                                                      | 26/150 [00:08<00:39,  3.13it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 18%|███████████████▎                                                                     | 27/150 [00:08<00:42,  2.93it/s]ERROR:__main__:Error processing item 311: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 19%|███████████████▊                                                                     | 28/150 [00:08<00:40,  2.99it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 19%|████████████████▍                                                                    | 29/150 [00:09<00:37,  3.20it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 20%|█████████████████                                                                    | 30/150 [00:09<00:40,  2.98it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 21%|█████████████████▌                                                                   | 31/150 [00:09<00:41,  2.84it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 21%|██████████████████▏                                                                  | 32/150 [00:10<00:42,  2.80it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 22%|██████████████████▋                                                                  | 33/150 [00:10<00:40,  2.85it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 23%|███████████████████▎                                                                 | 34/150 [00:10<00:37,  3.11it/s]ERROR:__main__:Error processing item 313: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 23%|███████████████████▊                                                                 | 35/150 [00:11<00:39,  2.88it/s]ERROR:__main__:Error processing item 393: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 24%|████████████████████▍                                                                | 36/150 [00:11<00:38,  2.99it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 25%|████████████████████▉                                                                | 37/150 [00:11<00:38,  2.96it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 25%|█████████████████████▌                                                               | 38/150 [00:12<00:34,  3.20it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 26%|██████████████████████                                                               | 39/150 [00:12<00:36,  3.04it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 27%|██████████████████████▋                                                              | 40/150 [00:12<00:37,  2.92it/s]ERROR:__main__:Error processing item 387: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error processing item 323: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 27%|███████████████████████▏                                                             | 41/150 [00:13<00:38,  2.87it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 28%|███████████████████████▊                                                             | 42/150 [00:13<00:37,  2.92it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 29%|████████████████████████▎                                                            | 43/150 [00:13<00:33,  3.15it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 29%|████████████████████████▉                                                            | 44/150 [00:14<00:33,  3.15it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 30%|█████████████████████████▌                                                           | 45/150 [00:14<00:31,  3.33it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 31%|██████████████████████████                                                           | 46/150 [00:14<00:30,  3.36it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 31%|██████████████████████████▋                                                          | 47/150 [00:15<00:29,  3.45it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 32%|███████████████████████████▏                                                         | 48/150 [00:15<00:28,  3.58it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 33%|███████████████████████████▊                                                         | 49/150 [00:15<00:31,  3.26it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 33%|████████████████████████████▎                                                        | 50/150 [00:15<00:29,  3.44it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+{'loss': 0.8, 'grad_norm': 0.0, 'learning_rate': 9.8e-05, 'epoch': 1.0}
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 34%|████████████████████████████▉                                                        | 51/150 [00:16<00:30,  3.24it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 35%|█████████████████████████████▍                                                       | 52/150 [00:16<00:29,  3.31it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 35%|██████████████████████████████                                                       | 53/150 [00:16<00:27,  3.51it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 36%|██████████████████████████████▌                                                      | 54/150 [00:17<00:30,  3.20it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 37%|███████████████████████████████▏                                                     | 55/150 [00:17<00:28,  3.35it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 37%|███████████████████████████████▋                                                     | 56/150 [00:17<00:28,  3.33it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 38%|████████████████████████████████▎                                                    | 57/150 [00:18<00:30,  3.10it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 39%|████████████████████████████████▊                                                    | 58/150 [00:18<00:28,  3.27it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 39%|█████████████████████████████████▍                                                   | 59/150 [00:18<00:27,  3.31it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 40%|██████████████████████████████████                                                   | 60/150 [00:19<00:26,  3.36it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 41%|██████████████████████████████████▌                                                  | 61/150 [00:19<00:26,  3.32it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 41%|███████████████████████████████████▏                                                 | 62/150 [00:19<00:26,  3.37it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 42%|███████████████████████████████████▋                                                 | 63/150 [00:19<00:26,  3.30it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 43%|████████████████████████████████████▎                                                | 64/150 [00:20<00:28,  2.99it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 43%|████████████████████████████████████▊                                                | 65/150 [00:20<00:28,  3.00it/s]ERROR:__main__:Error processing item 313: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 44%|█████████████████████████████████████▍                                               | 66/150 [00:20<00:26,  3.12it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 45%|█████████████████████████████████████▉                                               | 67/150 [00:21<00:27,  2.98it/s]ERROR:__main__:Error processing item 387: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 45%|██████████████████████████████████████▌                                              | 68/150 [00:21<00:26,  3.09it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 46%|███████████████████████████████████████                                              | 69/150 [00:21<00:26,  3.04it/s]ERROR:__main__:Error processing item 323: Mismatch in `image` token count between text and `input_ids`. Got ids=[1535] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 47%|███████████████████████████████████████▋                                             | 70/150 [00:22<00:27,  2.93it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 47%|████████████████████████████████████████▏                                            | 71/150 [00:22<00:24,  3.19it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ 48%|████████████████████████████████████████▊                                            | 72/150 [00:22<00:25,  3.09it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 431, in <module>
+    main()
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 413, in main
+    trainer.train()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2240, in train
+    return inner_training_loop(
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2555, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 3735, in training_step
+    model.train()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2398, in train
+    module.train(mode)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2398, in train
+    module.train(mode)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2398, in train
+    module.train(mode)
+  [Previous line repeated 7 more times]
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2396, in train
+    self.training = mode
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1706, in __setattr__
+    params = self.__dict__.get('_parameters')
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 431, in <module>
+    main()
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 413, in main
+    trainer.train()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2240, in train
+    return inner_training_loop(
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2555, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 3735, in training_step
+    model.train()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2398, in train
+    module.train(mode)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2398, in train
+    module.train(mode)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2398, in train
+    module.train(mode)
+  [Previous line repeated 7 more times]
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2396, in train
+    self.training = mode
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1706, in __setattr__
+    params = self.__dict__.get('_parameters')
+KeyboardInterrupt

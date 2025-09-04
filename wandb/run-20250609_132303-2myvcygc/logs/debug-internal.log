@@ -1,0 +1,15 @@
+{"time":"2025-06-09T13:23:04.090160755-06:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/home/jasonrao/Documents/TCAM/wandb/run-20250609_132303-2myvcygc/logs/debug-core.log"}
+{"time":"2025-06-09T13:23:04.24969201-06:00","level":"INFO","msg":"stream: created new stream","id":"2myvcygc"}
+{"time":"2025-06-09T13:23:04.249726147-06:00","level":"INFO","msg":"stream: started","id":"2myvcygc"}
+{"time":"2025-06-09T13:23:04.250310877-06:00","level":"INFO","msg":"sender: started","stream_id":"2myvcygc"}
+{"time":"2025-06-09T13:23:04.25035907-06:00","level":"INFO","msg":"writer: Do: started","stream_id":"2myvcygc"}
+{"time":"2025-06-09T13:23:04.250364818-06:00","level":"INFO","msg":"handler: started","stream_id":"2myvcygc"}
+{"time":"2025-06-09T13:23:04.420339564-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-09T13:23:50.674596629-06:00","level":"INFO","msg":"stream: closing","id":"2myvcygc"}
+{"time":"2025-06-09T13:23:50.674674916-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-09T13:23:50.674736864-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-09T13:23:51.040573165-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-09T13:23:51.141412736-06:00","level":"INFO","msg":"handler: closed","stream_id":"2myvcygc"}
+{"time":"2025-06-09T13:23:51.141477504-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2myvcygc"}
+{"time":"2025-06-09T13:23:51.141502326-06:00","level":"INFO","msg":"sender: closed","stream_id":"2myvcygc"}
+{"time":"2025-06-09T13:23:51.141549815-06:00","level":"INFO","msg":"stream: closed","id":"2myvcygc"}

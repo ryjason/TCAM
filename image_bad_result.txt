@@ -1,0 +1,61 @@
+[ultralytics.engine.results.Results object with attributes:
+
+boxes: None
+keypoints: None
+masks: None
+names: {0: 'good', 1: 'moderate', 2: 'unhealthy', 3: 'unhealthy for sensitive groups'}
+obb: None
+orig_img: array([[[ 8,  2,  3],
+        [ 6,  1,  0],
+        [39, 34, 33],
+        ...,
+        [ 0,  0,  0],
+        [ 1,  1,  1],
+        [ 0,  0,  0]],
+
+       [[ 8,  2,  3],
+        [ 6,  1,  0],
+        [40, 35, 32],
+        ...,
+        [ 0,  0,  0],
+        [ 1,  1,  1],
+        [ 0,  0,  0]],
+
+       [[ 7,  2,  1],
+        [ 6,  1,  0],
+        [41, 36, 33],
+        ...,
+        [ 0,  0,  0],
+        [ 2,  2,  2],
+        [ 0,  0,  0]],
+
+       ...,
+
+       [[32, 26, 27],
+        [ 4,  0,  0],
+        [ 8,  3,  4],
+        ...,
+        [ 0,  0,  3],
+        [ 2,  5, 10],
+        [10, 13, 18]],
+
+       [[ 4,  0,  1],
+        [ 4,  0,  1],
+        [18, 13, 15],
+        ...,
+        [ 2,  3,  7],
+        [ 3,  6, 11],
+        [ 0,  0,  4]],
+
+       [[ 5,  0,  2],
+        [ 5,  0,  2],
+        [ 2,  0,  1],
+        ...,
+        [ 0,  0,  3],
+        [ 0,  3,  8],
+        [ 8, 11, 16]]], dtype=uint8)
+orig_shape: (240, 320)
+path: '/home/jasonrao/Documents/TCAM/image_bad.jpg'
+probs: ultralytics.engine.results.Probs object
+save_dir: 'runs/classify/predict'
+speed: {'preprocess': 2.131792949512601, 'inference': 2.1465409663505852, 'postprocess': 0.043527979869395494}]

@@ -1,0 +1,34 @@
+  0%|                                                                                                                                                        | 0/150 [00:00<?, ?it/s]ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Training failed:
+Traceback (most recent call last):
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 329, in <module>
+    main()
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 317, in main
+    trainer.train()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2240, in train
+    return inner_training_loop(
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2555, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 3791, in training_step
+    self.accelerator.backward(loss, **kwargs)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/accelerate/accelerator.py", line 2469, in backward
+    self.scaler.scale(loss).backward(**kwargs)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/cuda/amp/grad_scaler.py", line 181, in scale
+    assert outputs.is_cuda or outputs.device.type == "xla"
+AssertionError
+Traceback (most recent call last):
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 329, in <module>
+    main()
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 317, in main
+    trainer.train()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2240, in train
+    return inner_training_loop(
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2555, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 3791, in training_step
+    self.accelerator.backward(loss, **kwargs)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/accelerate/accelerator.py", line 2469, in backward
+    self.scaler.scale(loss).backward(**kwargs)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/cuda/amp/grad_scaler.py", line 181, in scale
+    assert outputs.is_cuda or outputs.device.type == "xla"
+AssertionError

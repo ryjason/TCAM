@@ -1,0 +1,62 @@
+locations:
+  - name: Smithfield
+    seasons: [ws, ss, sf]
+    epa_id: 305
+    purple_id: 69837
+    camera_id: 16511
+  - name: Lindon
+    seasons: [ws, ss, sf]
+    epa_id: 331
+    purple_id: 70099
+    camera_id: 14525
+  - name: West Valley City
+    seasons: [ws, ss, sf]
+    epa_id: 228376
+    purple_id: 63701
+    camera_id: 288
+  - name: Herriman
+    seasons: [ws, ss, sf]
+    epa_id: 5818
+    purple_id: 160522
+    camera_id: 17369
+  - name: North Salt Lake
+    seasons: [ws, ss, sf]
+    epa_id: 8777
+    purple_id: 73253
+    camera_id: 5122
+
+granularity_presets:
+  - split: 'static'
+    labels: 
+      - "good"
+      - "moderate"
+      - "unhealthy for sensitive groups"
+      - "unhealthy"
+      - "very unhealthy"
+      - "hazardous"
+    ranges:
+      - 13
+      - 36
+      - 56
+      - 151
+      - 251
+  - split: 'static'
+    labels: 
+      - "great"
+      - "good"
+      - "okay"
+      - "moderate"
+      - "unhealthy for sensitive groups"
+      - "unhealthy"
+      - "very unhealthy"
+      - "hazardous"
+    ranges:
+      - 10
+      - 20
+      - 30
+      - 60
+      - 90
+      - 150
+      - 250
+  - split: 'dynamic'
+

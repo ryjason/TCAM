@@ -1,0 +1,58 @@
+  0%|                                                                                              | 0/150 [00:00<?, ?it/s]ERROR:__main__:Error processing item 342: Mismatch in `image` token count between text and `input_ids`. Got ids=[511] and text=[1850]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error processing item 318: Mismatch in `image` token count between text and `input_ids`. Got ids=[511] and text=[1368]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error processing item 306: Mismatch in `image` token count between text and `input_ids`. Got ids=[511] and text=[1368]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error processing item 314: Mismatch in `image` token count between text and `input_ids`. Got ids=[511] and text=[1368]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error processing item 94: Mismatch in `image` token count between text and `input_ids`. Got ids=[511] and text=[1368]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error processing item 145: Mismatch in `image` token count between text and `input_ids`. Got ids=[511] and text=[1368]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error processing item 236: Mismatch in `image` token count between text and `input_ids`. Got ids=[511] and text=[1368]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error processing item 177: Mismatch in `image` token count between text and `input_ids`. Got ids=[511] and text=[1368]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error processing item 358: Mismatch in `image` token count between text and `input_ids`. Got ids=[511] and text=[1368]. Likely due to `truncation='max_length'`. Please disable truncation or increase `max_length`.
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Error in compute_loss: 'NoneType' object is not iterable
+ERROR:__main__:Training failed: No inf checks were recorded for this optimizer.
+Traceback (most recent call last):
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 373, in main
+    trainer.train()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2240, in train
+    return inner_training_loop(
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2606, in _inner_training_loop
+    self.optimizer.step()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/accelerate/optimizer.py", line 166, in step
+    self.scaler.step(self.optimizer, closure)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/cuda/amp/grad_scaler.py", line 413, in step
+    len(optimizer_state["found_inf_per_device"]) > 0
+AssertionError: No inf checks were recorded for this optimizer.
+Traceback (most recent call last):
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 391, in <module>
+    main()
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 373, in main
+    trainer.train()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2240, in train
+    return inner_training_loop(
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2606, in _inner_training_loop
+    self.optimizer.step()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/accelerate/optimizer.py", line 166, in step
+    self.scaler.step(self.optimizer, closure)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/cuda/amp/grad_scaler.py", line 413, in step
+    len(optimizer_state["found_inf_per_device"]) > 0
+AssertionError: No inf checks were recorded for this optimizer.
+Traceback (most recent call last):
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 391, in <module>
+    main()
+  File "/home/jasonrao/Documents/TCAM/pm25-llava-finetune/train_llava_pm25.py", line 373, in main
+    trainer.train()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2240, in train
+    return inner_training_loop(
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/transformers/trainer.py", line 2606, in _inner_training_loop
+    self.optimizer.step()
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/accelerate/optimizer.py", line 166, in step
+    self.scaler.step(self.optimizer, closure)
+  File "/home/jasonrao/Documents/TCAM/venv/lib/python3.10/site-packages/torch/cuda/amp/grad_scaler.py", line 413, in step
+    len(optimizer_state["found_inf_per_device"]) > 0
+AssertionError: No inf checks were recorded for this optimizer.

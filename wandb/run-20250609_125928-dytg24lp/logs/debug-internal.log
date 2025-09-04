@@ -1,0 +1,15 @@
+{"time":"2025-06-09T12:59:29.20370389-06:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/home/jasonrao/Documents/TCAM/wandb/run-20250609_125928-dytg24lp/logs/debug-core.log"}
+{"time":"2025-06-09T12:59:29.362609465-06:00","level":"INFO","msg":"stream: created new stream","id":"dytg24lp"}
+{"time":"2025-06-09T12:59:29.362649706-06:00","level":"INFO","msg":"stream: started","id":"dytg24lp"}
+{"time":"2025-06-09T12:59:29.362723294-06:00","level":"INFO","msg":"writer: Do: started","stream_id":"dytg24lp"}
+{"time":"2025-06-09T12:59:29.362747386-06:00","level":"INFO","msg":"sender: started","stream_id":"dytg24lp"}
+{"time":"2025-06-09T12:59:29.362790704-06:00","level":"INFO","msg":"handler: started","stream_id":"dytg24lp"}
+{"time":"2025-06-09T12:59:29.489024316-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-09T12:59:30.805942308-06:00","level":"INFO","msg":"stream: closing","id":"dytg24lp"}
+{"time":"2025-06-09T12:59:30.806047524-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-09T12:59:30.806195343-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-09T12:59:31.154562239-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-09T12:59:31.290840382-06:00","level":"INFO","msg":"handler: closed","stream_id":"dytg24lp"}
+{"time":"2025-06-09T12:59:31.290937036-06:00","level":"INFO","msg":"sender: closed","stream_id":"dytg24lp"}
+{"time":"2025-06-09T12:59:31.29092437-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dytg24lp"}
+{"time":"2025-06-09T12:59:31.291143573-06:00","level":"INFO","msg":"stream: closed","id":"dytg24lp"}
